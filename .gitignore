@@ -1,6 +1,7 @@
 # Виртуальное окружение
 env/
 venv/
+my_venv/
 .venv/
 *.env
 *.pyenv
