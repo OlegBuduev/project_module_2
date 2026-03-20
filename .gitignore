@@ -23,3 +23,6 @@ __pycache__/
 # Системные файлы
 Thumbs.db  # Windows
 .DS_Store  # macOS 
+
+my_venv/
+.ipynb_checkpoints/
